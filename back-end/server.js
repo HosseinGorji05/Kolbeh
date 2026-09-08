@@ -272,10 +272,10 @@ const menuItems = {
   },
   114: {
     name: 'Roast Beef Pizza',
-    price: 800000,
+    price: 1000000,
     image: 'images/61f67055e1c10.jpg',
     description: 'Roast beef, Bell pepper, Mozzarella',
-    sizes: { single: 600000, medium: 800000, twoPersons: 1200000, family: 1600000 },
+    sizes: { single: 750000, medium: 1000000, twoPersons: 1600000, family: 1900000 },
   },
   115: {
     name: 'Kolbe Special Pizza',
