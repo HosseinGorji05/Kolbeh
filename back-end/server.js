@@ -398,9 +398,10 @@ const menuItems = {
   },
   134: {
     name: 'Garlic Bread',
-    price: 250000,
+    price: 300000,
     image: 'images/calindairy-blog-garlic-bread-030920-002.webp',
     description: 'Fresh baked, Garlic butter, Perfect starter',
+    sizes: { single: 300000, twoPersons: 700000 },
   },
   135: {
     name: 'Caesar Salad',
