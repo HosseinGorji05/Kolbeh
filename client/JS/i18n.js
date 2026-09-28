@@ -146,6 +146,14 @@
     "Sausage and Egg": "سوسیس تخم مرغ",
     "Tea with Rock Candy": "چای نبات",
     "Carrot Cake": "کیک هویج",
+    "Fries with Mushroom and Cheese": "سیب‌زمینی با قارچ و پنیر",
+    "Special Chicken Sandwich": "مرغ ویژه",
+    "Special Hot Dog": "هات داگ ویژه",
+    "Roast Beef Sandwich": "ساندویچ رست بیف",
+    "Special Krakow": "کراکوف ویژه",
+    "Special Cocktail": "کوکتل ویژه",
+    "Mushroom and Cheese Omelet": "املت قارچ و پنیر",
+    "Bell Pepper Omelet": "املت فلفل دلمه‌ای",
 
     // Tags
     "Fresh basil": "ریحان تازه",
@@ -293,6 +301,14 @@
     "Egg breakfast, Hearty, Classic": "صبحانه تخم مرغ، مقرنی، کلاسیک",
     "Hot drink, With rock candy, Traditional": "نوشیدنی گرم، با نبات، سنتی",
     "Fresh baked, Homemade": "تازه پخته‌شده، خانگی",
+    "Mushrooms and cheese, Crispy texture": "قارچ و پنیر، بافت ترد",
+    "Grilled chicken, House specialty": "مرغ کبابی، ویژه رستوران",
+    "Classic hot dog, House specialty": "هات داگ کلاسیک، ویژه رستوران",
+    "Roast beef, Mozzarella": "گوشت رست، موزارلا",
+    "Krakow sausage, House specialty": "سوسیس کراکوف، ویژه رستوران",
+    "Cocktail sausage, House specialty": "سوسیس کوکتل، ویژه رستوران",
+    "Egg breakfast, Mushrooms and cheese": "صبحانه تخم مرغ، قارچ و پنیر",
+    "Egg breakfast, Bell pepper": "صبحانه تخم مرغ، فلفل دلمه‌ای",
 
     // About page
     "Welcome to Kolbe Pizza; a cozy spot in the heart of Tehran to experience the real taste of pizza. Using fresh, high-quality ingredients, we offer you a menu that blends traditional and modern flavors. Whether you're looking for a classic Margherita or a spicy Pepperoni, our goal is to serve you a warm, delicious, and memorable meal. At Kolbe Pizza, every slice tells a story of passion and taste.":
