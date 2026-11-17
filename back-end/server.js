@@ -343,7 +343,7 @@ const menuItems = {
   },
   125: {
     name: 'Mushroom and Cheese Hot Dog',
-    price: 350000,
+    price: 550000,
     image: 'images/طرز-تهیه-هات-داگ-خانگی.jpg',
     description: 'Mushrooms and cheese, Gourmet style',
   },
@@ -373,7 +373,7 @@ const menuItems = {
   },
   130: {
     name: 'Roasted Ham',
-    price: 450000,
+    price: 550000,
     image: 'images/janbon-tanori.jpg',
     description: 'Roasted ham, Mozzarella, Grilled to perfection',
   },
@@ -525,7 +525,7 @@ const menuItems = {
   },
   155: {
     name: 'Special Chicken Sandwich',
-    price: 450000,
+    price: 700000,
     image: 'images/0026188_-_550.jpeg',
     description: 'Grilled chicken, House specialty',
   },
